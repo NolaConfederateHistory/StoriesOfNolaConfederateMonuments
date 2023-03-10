@@ -3,4 +3,4 @@
 ---
 
 
-This is the first [[Geography of Confederate Monuments/Robert E Lee\|Robert E Lee]] person who I will be examining.
+This is the first [[Geography of Confederate Monuments/Monuments/Robert E. Lee Monument\|Robert E. Lee Monument]] person who I will be examining.
