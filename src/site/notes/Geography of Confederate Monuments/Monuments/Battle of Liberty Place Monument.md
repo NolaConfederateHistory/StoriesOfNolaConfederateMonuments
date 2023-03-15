@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/geography-of-confederate-monuments/monuments/battle-of-liberty-place-monument/"}
 ---
 
+# Battle of Liberty Place Monument
 
 ![120](https://upload.wikimedia.org/wikipedia/commons/3/3d/NOLAWhiteLeagueMonumentByTracks.jpg)
 
