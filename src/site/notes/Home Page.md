@@ -3,7 +3,7 @@
 ---
 
 # About
-This is the about page for this project
+I changed this page
 
 # Oral Histories
 [[Oral Histories/Sample Oral History\|Sample Oral History]]
