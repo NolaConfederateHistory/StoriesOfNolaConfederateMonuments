@@ -3,7 +3,7 @@
 ---
 
 
-![200](https://upload.wikimedia.org/wikipedia/commons/3/3d/NOLAWhiteLeagueMonumentByTracks.jpg)
+![20](https://upload.wikimedia.org/wikipedia/commons/3/3d/NOLAWhiteLeagueMonumentByTracks.jpg)
 
 # Historical Background on the Battle of Liberty Place 
 
