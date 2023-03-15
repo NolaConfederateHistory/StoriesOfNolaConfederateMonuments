@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/geography-of-confederate-monuments/monuments/robert-e-lee-monument/"}
 ---
 
-
+# Robert E. Lee Monument
 ![100](https://upload.wikimedia.org/wikipedia/commons/e/e6/Robert_E_Lee_Monument_at_Lee_Circle._New_Orleans_Louisiana.jpg)
 
 # Erection of Robert E. Lee
