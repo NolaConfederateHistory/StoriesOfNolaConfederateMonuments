@@ -7,4 +7,4 @@
 
 [[Geography of Confederate Monuments/Monuments/Battle of Liberty Place Monument\|Battle of Liberty Place Monument]]
 
-[[Geography of Confederate Monuments/Monuments/Margaret Haughery Staute\|Margaret Haughery Staute]]
+[[Geography of Confederate Monuments/Monuments/Margaret Haughery Monument\|Margaret Haughery Monument]]
