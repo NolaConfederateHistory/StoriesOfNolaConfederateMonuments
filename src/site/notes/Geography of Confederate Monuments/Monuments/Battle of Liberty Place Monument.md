@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/geography-of-confederate-monuments/monuments/battle-of-liberty-place-monument/"}
 ---
 
+
+![200](https://upload.wikimedia.org/wikipedia/commons/3/3d/NOLAWhiteLeagueMonumentByTracks.jpg)
+
 # Historical Background on the Battle of Liberty Place 
 
 The Battle of Liberty Place, also known as the Battle of Canal Street, took place on September 14, 1874, in New Orleans, Louisiana. This event was an attempted insurrection and coup d'etat by the Crescent City White League against the Reconstruction Era Louisiana Republican state government. The White League, a paramilitary organization comprised mostly of Confederate veterans, sought to overthrow the Republican government that aimed to provide greater equality and opportunities for Black Americans. The conflict arose from the disputed 1872 gubernatorial election in Louisiana, where both Democrat John McEnery and Republican William Pitt Kellogg claimed victory. The battle resulted in the White League temporarily taking control of the statehouse, armory, and downtown New Orleans for three days. They retreated upon the arrival of Federal troops sent by President Ulysses S. Grant, which ultimately restored the elected government.
