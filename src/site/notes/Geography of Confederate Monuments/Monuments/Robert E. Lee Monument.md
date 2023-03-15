@@ -19,7 +19,7 @@ The Robert E. Lee Monument in New Orleans has been a source of controversy due t
 
 One interesting aspect of the Lee statue in New Orleans is that Lee had very little personal connection to the city. He never lived there, and his military service brought him to the area only a few times. The decision to erect the statue was made by a group of prominent white New Orleanians who were members of the Robert E. Lee Monumental Association, many of whom had served in the Confederacy.
 
-# Sentinel
+# Temporary Replacement: Sentinel
 
 In its place, a sculpture by artist Simone Leigh, titled Sentinel (Mami Wata), was installed on January 22, 2022, as part of the Prospect.5 art exhibition. The sculpture, more than 12 feet tall, celebrates the traditions of the African diaspora in New Orleans and honors the work done by activists and city officials to remove symbols of white supremacy.
 
