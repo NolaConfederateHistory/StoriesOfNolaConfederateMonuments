@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tik-tok-archive/videos/iberville-housing-projects-new-orleans-hood-history-lesson/"}
 ---
 
-# # IBERVILLE HOUSING PROJECTS NEW ORLEANS⚜️ HOOD HISTORY LESSON
+# IBERVILLE HOUSING PROJECTS NEW ORLEANS⚜️ HOOD HISTORY LESSON
 
 Date: 12-15-2022
 
