@@ -10,8 +10,7 @@
 >[[Geography of Confederate Monuments/Monuments/General Beauregard Equestrian Statue\|General Beauregard Equestrian Statue]]
 
 # Mapping Project
-<iframe src="https://snazzymaps.com/embed/472468" width="100%" height="600px" style="border:none;"></iframe>
-
+<iframe src="https://snazzymaps.com/embed/472468" width="90%" height="500px" style="border:none;"></iframe>
 # News
 [[News/Sample News Post\|Sample News Post]]
 
