@@ -9,7 +9,7 @@ This is the about page for this project
 # Oral Histories
 [[Oral Histories/Sample Oral History\|Sample Oral History]]
 
-# Geography of Confederate Monuments
+# History of NOLA Confederate Monuments
 [[Geography of Confederate Monuments/Maps\|Maps]]
 
 # News
