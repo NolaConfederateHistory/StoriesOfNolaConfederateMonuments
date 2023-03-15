@@ -4,11 +4,12 @@
 
 
 # Boogie B TikTok Archive
-![BoogieB.jpg|300](/img/user/Backend/Images/BoogieB.jpg)
+
+![300](https://m.media-amazon.com/images/M/MV5BMWMyMzE2ZTUtMWE5MS00NzA4LTgxYmYtNDhmNTg5MDgyOTMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg)
+
 >"History books, come here let me stress y’all out right fast."
 
 \- Brandon "Boogie B" Montrell
-
 
 # About Boogie B
 
