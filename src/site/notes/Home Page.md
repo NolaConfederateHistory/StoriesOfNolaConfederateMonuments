@@ -12,7 +12,7 @@
 >[[Geography of Confederate Monuments/Monuments/General Beauregard Equestrian Statue\|General Beauregard Equestrian Statue]]
 
 # Mapping Project
-<iframe src="https://snazzymaps.com/embed/472468" width="85%" height="500px" style="border:none;"></iframe>
+<iframe src="https://snazzymaps.com/embed/472468" width="70%" height="300px" style="border:none;"></iframe>
 
 # [[TikTok Archive/Boogie B TikTok Archive\|Boogie B TikTok Archive]]
 
