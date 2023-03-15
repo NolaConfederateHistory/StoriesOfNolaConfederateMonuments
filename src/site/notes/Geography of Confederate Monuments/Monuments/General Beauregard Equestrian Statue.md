@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/geography-of-confederate-monuments/monuments/general-beauregard-equestrian-statue/"}
 ---
 
+# General Beauregard Equestrian Statue
 
 ![200](https://upload.wikimedia.org/wikipedia/commons/1/1a/BeauregardStatueSideOct08.jpg)
+
 # Erection of Beauregard Equestrian Statue
 
 The General Beauregard Equestrian Statue was erected on **November 11, 1915**, in New Orleans, Louisiana. The statue was commissioned by the [[Need to Add/Louisiana Division of the United Daughters of the Confederacy\|Louisiana Division of the United Daughters of the Confederacy]] (UDC) to honor the memory P.G.T. Beauregard, a prominent Confederate General during the American Civil War. The American sculptor [[Need to Add/Alexander Doyle\|Alexander Doyle]] was chosen to create the statue, which depicted General Beauregard on horseback.
