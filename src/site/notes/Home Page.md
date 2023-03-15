@@ -11,8 +11,9 @@
 
 # Mapping Project
 <iframe src="https://snazzymaps.com/embed/472468" width="85%" height="500px" style="border:none;"></iframe>
-# News
-[[News/Sample News Post\|Sample News Post]]
+
+# Boogie B TikTok Archive
+[[TikTok Archive/Boogie B TikTok Archive\|Boogie B TikTok Archive]]
 
 # Oral Histories
 [[Oral Histories/Sample Oral History\|Sample Oral History]]
