@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
-
 # About
 This is the about page for this project
 
@@ -14,6 +13,3 @@ This is the about page for this project
 
 # News
 [[News/Sample News Post\|Sample News Post]]
-
-
-![]()
