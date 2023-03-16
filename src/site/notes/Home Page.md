@@ -3,11 +3,19 @@
 ---
 
 
+# History of NOLA Confederate Monuments
+>[[History of Confederate Monuments/Monuments/Robert E. Lee Monument\|Robert E. Lee Monument]]
+>[[History of Confederate Monuments/Monuments/Battle of Liberty Place Monument\|Battle of Liberty Place Monument]]
+>[[History of Confederate Monuments/Monuments/Margaret Haughery Monument\|Margaret Haughery Monument]]
+>[[History of Confederate Monuments/Monuments/General Beauregard Equestrian Statue\|General Beauregard Equestrian Statue]]
 
-
-# Mapping Project
-<iframe src="https://snazzymaps.com/embed/472468" width="70%" height="300px" style="border:none;"></iframe>
-
+# [[Mapping Project\|Mapping Project]]
+<iframe
+src="https://studio.mapbox.com/tilesets/nolaconfederatehistory.clfaplwtm17tv2io7fmw64rj2-4umn4"
+  width="100%"
+  height="400px"
+  title="Map of Monuments 1"
+></iframe>
 # [[TikTok Archive/Boogie B TikTok Archive\|Boogie B TikTok Archive]]
 
 >[[TikTok Archive/Videos/GENTILLY ⚜️NEW ORLEANS HOOD HISTORY LESSON\|GENTILLY ⚜️NEW ORLEANS HOOD HISTORY LESSON]]
