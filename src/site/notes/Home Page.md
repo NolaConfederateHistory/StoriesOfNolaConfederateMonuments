@@ -4,7 +4,7 @@
 
 
 # History of NOLA Confederate Monuments
-	[[History of Confederate Monuments/Monuments Removed in 2017\|Monuments Removed in 2017]]
+	Monuments Removed in 2017
 		[[Robert E. Lee Monument\|Robert E. Lee Monument]]
 		[[Jefferson Davis Monument\|Jefferson Davis Monument]]
 		[[General Beauregard Equestrian Statue\|General Beauregard Equestrian Statue]]
